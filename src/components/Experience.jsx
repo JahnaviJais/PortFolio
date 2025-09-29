@@ -9,7 +9,7 @@ import {
   VerticalTimeline,
   VerticalTimelineElement,
 } from "react-vertical-timeline-component";
-import { exp } from "three/tsl";
+
 
 const ExperienceCard = ({ experience }) => (
   <VerticalTimelineElement
